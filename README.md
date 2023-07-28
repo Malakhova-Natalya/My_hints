@@ -15,3 +15,4 @@ Redash:
 - https://redash.public.karpov.courses/dashboards/1444-dashboard
 - https://redash.public.karpov.courses/dashboards/1461-dashboard-of-product-metrics 
 - https://redash.public.karpov.courses/dashboards/1466-dashboard-of-marketing-metrics
+_______________________________________________________________________________________________________________________________________________________
